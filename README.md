@@ -15,7 +15,7 @@ If you have Docker installed, you can run the app with just a few commands:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/jawaidaakif01/AWS-CI-CD-Projects.git](https://github.com/jawaidaakif01/AWS-CI-CD-Projects.git)
+    git clone [https://github.com/jawaidaakif01/MLProjects.git](https://github.com/jawaidaakif01/MLProjects.git)
     ```
 
 2.  **Build the Docker Image**
@@ -35,7 +35,7 @@ If you have Docker installed, you can run the app with just a few commands:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/jawaidaakif01/AWS-CI-CD-Projects.git](https://github.com/jawaidaakif01/AWS-CI-CD-Projects.git)
+    git clone [https://github.com/jawaidaakif01/MLProjects.git](https://github.com/jawaidaakif01/MLProjects.git)
     ```
 
 2.  **Install Dependencies**
